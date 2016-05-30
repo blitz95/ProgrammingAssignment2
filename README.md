@@ -1,4 +1,20 @@
-### Introduction
+###File Submission
+
+The cacheMatrix.R file was submitted to fullfill the assignment requirements below.
+
+The combintation of two functions:
+- makeCacheMatrix()
+- cacheSolve()
+
+can be used to calculate and store the inverse of a matrix.  If the inverse
+is already calculated and stored for a given matrix, the stored value will 
+be returned rather than recalculating the inverse again. 
+
+Additional information for the functions can be found in the comments of the 
+cacheMatrix.R file.
+
+###Assignment 
+###Introduction
 
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
